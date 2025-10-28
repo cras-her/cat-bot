@@ -211,7 +211,7 @@ hints = [
     "Looking at Cat's code won't make you regret your life choices!",
     "Cats aren't shared between servers to make it more fair and fun",
     "Cat Bot can go offline! Don't panic if it does",
-    "By default, cats spawn 2-20 minutes apart",
+    "By default, cats spawn 1-10 minutes apart",
     "View the last catch as well as the next one with /last",
     "Make sure to leave Cat Bot [a review on top.gg](<https://top.gg/bot/966695034340663367#reviews>)!",
 ]
