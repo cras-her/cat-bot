@@ -192,6 +192,22 @@ vote_button_texts = [
     "vote if cats > dogs",
     "you should vote for cat NOW!",
     "I'd vote if I were you",
+    "What time is it? VOTING TIME!!1!",
+    "vote or else",
+    "This button looks shiny",
+    "Well well well, you haven't voted",
+    "Press this button for a reward :)",
+    "I wonder what this does",
+    "Stay hydrated! and vote too",
+    "Am I annoying? Go vote!",
+    "your vote helps create cats",
+    "Voting takes just 30s",
+    "cat!i_will_vote",
+    "We know you want to vote",
+    "Dogs don't want you to vote",
+    "Vote for good luck!",
+    "uwu i mean vote",
+    "vote=false. go change it :3",
 ]
 
 # various hints/fun facts
@@ -228,6 +244,13 @@ hints = [
     "By default, cats spawn 1-10 minutes apart",
     "View the last catch as well as the next one with /last",
     "Make sure to leave Cat Bot [a review on top.gg](<https://top.gg/bot/966695034340663367#reviews>)!",
+    "/last also lets you see how long the current rain will last!",
+    "You could learn a thing or two by looking at our ToS",
+    "You can bake yourself cookies using /cookie!",
+    "There are more than 5 hidden achs. Good luck!",
+    "Your battlepass and catnip catches still count until after 3 seconds of the catch",
+    "This bot is developed by a single person!",
+    "You can undo /nuke by making a support post in our server",
 ]
 
 # laod the jsons
